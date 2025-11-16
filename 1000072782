@@ -1,0 +1,14 @@
+{
+    "name": "xclipse940_superwrapper",
+    "version": "4.0",
+    "device_target": "Samsung Xclipse 940",
+    "features": {
+        "bc_emulation": true,
+        "pipeline_validation": true,
+        "queue_tracking": true,
+        "memory_tracking": true,
+        "crash_safe_logging": true,
+        "feature_dump": true,
+        "auto_tune_profiles": true
+    }
+}
